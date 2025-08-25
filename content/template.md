@@ -9,7 +9,7 @@ date: 2024-06-07
 
 # Template Note
 
-Welcome to your Mindjoy Wiki! This template demonstrates various features you can use in your notes.
+Welcome to your Learning Lab! This template demonstrates various features you can use in your notes.
 
 ---
 

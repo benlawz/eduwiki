@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Mindjoy Wiki",
-    pageTitleSuffix: " | Mindjoy Wiki",
+      pageTitle: "The Learning Lab",
+  pageTitleSuffix: " | The Learning Lab",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
